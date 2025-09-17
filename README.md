@@ -1,5 +1,7 @@
 # Just Vibing Toolkit 🚀
 
+> Python, PHP, Rust
+
 A comprehensive toolkit for AI-assisted development that serves as your go-to resource for vibe coding with Copilot, chatmodes, instructions, prompts, templates, and workflow enhancements. Designed for quick reference, experimentation, and sharing useful tools for agentic coding workflows.
 
 ## 🎯 What's Inside
