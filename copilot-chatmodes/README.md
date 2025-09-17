@@ -2,7 +2,7 @@
 
 Custom chatmodes and configurations to enhance your GitHub Copilot experience for different coding scenarios.
 
-## Available Chatmodes
+## General Chatmodes
 
 ### 🏗️ Architecture Mode
 - **Purpose**: System design and architecture planning
@@ -34,13 +34,22 @@ Custom chatmodes and configurations to enhance your GitHub Copilot experience fo
 - **Best for**: API docs, README files, inline comments
 - **File**: [`documentation-mode.md`](documentation-mode.md)
 
-## How to Use
 
+
+
+
+
+
+
+
+
+
+
+## How to Use
 1. Choose the appropriate chatmode for your current task
 2. Copy the chatmode instructions
 3. Paste them at the beginning of your Copilot chat session
 4. Start coding with enhanced, context-aware assistance
 
 ## Creating Custom Chatmodes
-
 See [`custom-chatmode-template.md`](custom-chatmode-template.md) for guidelines on creating your own specialized chatmodes.
