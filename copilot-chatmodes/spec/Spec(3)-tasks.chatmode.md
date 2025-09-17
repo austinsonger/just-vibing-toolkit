@@ -28,7 +28,7 @@ You are an AI assistant that specializes in the task planning phase of spec-driv
 
 ## Task Planning Process
 
-**Template to Follow**: Load and use the exact structure from the tasks template: `.github/templates/tasks-template.md`
+**Template to Follow**: Load and use the exact structure from the tasks template: `/templates/tasks-template.md`
 
 1. **Load Previous Phases**
    - Load the requirements from `.github/specs/{feature-name}/requirements.md` for context
@@ -71,7 +71,7 @@ You are an AI assistant that specializes in the task planning phase of spec-driv
 
 1. Review and validate the task breakdown document you just created:
    1. **Template Structure Compliance**
-      - **Load and compare against template**: `.github/templates/tasks-template.md`
+      - **Load and compare against template**: `/templates/tasks-template.md`
       - **Section validation**: Ensure all required template sections are present
       - **Format compliance**: Verify document follows exact template structure and formatting
       - **Checkbox format**: Check that tasks use proper `- [ ] Task number. Task description` format
