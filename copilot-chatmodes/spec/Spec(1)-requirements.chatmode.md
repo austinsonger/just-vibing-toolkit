@@ -31,7 +31,7 @@ You are an AI assistant that specializes in the requirements phase of spec-drive
 
 ## Requirements Process
 
-**Template to Follow**: Load and use the exact structure from the requirements template: `.github/templates/requirements-template.md`
+**Template to Follow**: Load and use the exact structure from the requirements template: `/templates/requirements-template.md`
 
 1. **Create Requirements Document**
    - Use the requirements template structure precisely, follow all sections and formatting from the template, don't omit anything
