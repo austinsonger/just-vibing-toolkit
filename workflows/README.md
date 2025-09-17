@@ -4,42 +4,17 @@ End-to-end development workflows and processes that leverage AI assistance for m
 
 ## Categories
 
-### 🚀 Development Workflows
-- [**Feature Development**](development/feature-development.md) - Complete feature development process
-- [**Bug Fix Workflow**](development/bug-fix.md) - Systematic bug resolution process
-- [**Code Review Process**](development/code-review.md) - AI-enhanced code review workflow
-- [**Refactoring Workflow**](development/refactoring.md) - Safe and systematic refactoring
+### 🏗️ Architecture & Design
 
-### 🧪 Testing Workflows
-- [**Test-Driven Development**](testing/tdd-workflow.md) - TDD with AI assistance
-- [**Testing Strategy**](testing/testing-strategy.md) - Comprehensive testing approach
-- [**Quality Assurance**](testing/qa-workflow.md) - QA process with AI tools
-- [**Performance Testing**](testing/performance-testing.md) - Performance validation workflow
+### 💻 Development Patterns
 
-### 🏗️ Architecture Workflows
-- [**System Design**](architecture/system-design.md) - Architecture planning process
-- [**API Design**](architecture/api-design.md) - API development workflow
-- [**Database Design**](architecture/database-design.md) - Database schema evolution
-- [**Microservices Development**](architecture/microservices.md) - Microservice development process
+### 🧪 Testing & Quality
 
-### 🔒 Security Workflows
-- [**Security Review**](security/security-review.md) - Security assessment process
-- [**Vulnerability Management**](security/vulnerability-management.md) - Security issue resolution
-- [**Secure Development**](security/secure-development.md) - Security-first development
-- [**Compliance Checking**](security/compliance.md) - Regulatory compliance workflow
+### 🚀 Performance & Optimization
 
-### 🚢 Deployment Workflows
-- [**CI/CD Pipeline**](deployment/cicd-pipeline.md) - Continuous integration and deployment
-- [**Release Management**](deployment/release-management.md) - Release planning and execution
-- [**Environment Management**](deployment/environment-management.md) - Multi-environment workflow
-- [**Rollback Procedures**](deployment/rollback.md) - Safe deployment rollback
+### 🔒 Security
 
-### 📚 Documentation Workflows
-- [**Documentation as Code**](documentation/docs-as-code.md) - Automated documentation
-- [**API Documentation**](documentation/api-docs.md) - API documentation workflow
-- [**Knowledge Management**](documentation/knowledge-management.md) - Team knowledge sharing
-- [**Tutorial Creation**](documentation/tutorial-creation.md) - Educational content workflow
-
+### 🔧 DevOps & Deployment
 ## Feature Development Workflow
 
 ### 1. Planning Phase
