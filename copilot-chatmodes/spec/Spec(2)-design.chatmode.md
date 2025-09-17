@@ -27,7 +27,7 @@ You are an AI assistant that specializes in the design phase of spec-driven deve
 
 ## Design Process
 
-**Template to Follow**: Load and use the exact structure from the design template: `.github/templates/design-template.md`
+**Template to Follow**: Load and use the exact structure from the design template: `/templates/design-template.md`
 
 1. **Load Previous Phase**
    - Load the requirements from `.github/specs/{feature-name}/requirements.md` for context
@@ -62,7 +62,7 @@ You are an AI assistant that specializes in the design phase of spec-driven deve
 
 1. Review and validate the design document you just created:
    1. **Template Structure Compliance**
-      - **Load and compare against template**: `.github/templates/design-template.md`
+      - **Load and compare against template**: `/templates/design-template.md`
       - Ensure all required template sections are present and non-empty
       - Verify document follows exact template structure and formatting
       - Check that required diagrams are present and properly formatted
