@@ -4,35 +4,17 @@ Practical examples and demos showcasing how to use the Just Vibing Toolkit effec
 
 ## Categories
 
-### 🚀 Quick Start Examples
-- [**First AI-Assisted Feature**](quickstart/first-feature.md) - Complete walkthrough of building your first feature
-- [**Setting Up Your Toolkit**](quickstart/setup-guide.md) - Getting started with the toolkit
-- [**Basic Workflows**](quickstart/basic-workflows.md) - Essential development workflows
-- [**Common Use Cases**](quickstart/common-use-cases.md) - Typical scenarios and solutions
+### 🏗️ Architecture & Design
 
-### 💻 Code Examples
-- [**React Component Development**](code/react-component.md) - Building React components with AI
-- [**REST API Creation**](code/rest-api.md) - Complete API development example
-- [**Database Schema Design**](code/database-schema.md) - Database design with AI assistance
-- [**Testing Implementation**](code/testing-example.md) - Comprehensive testing example
+### 💻 Development Patterns
 
-### 🏗️ Project Examples
-- [**E-commerce API**](projects/ecommerce-api/) - Complete e-commerce backend
-- [**Task Management App**](projects/task-management/) - Full-stack task manager
-- [**Blog Platform**](projects/blog-platform/) - Content management system
-- [**Chat Application**](projects/chat-app/) - Real-time messaging system
+### 🧪 Testing & Quality
 
-### 🔧 Workflow Demonstrations
-- [**TDD with AI**](workflows/tdd-demo.md) - Test-driven development example
-- [**Code Review Process**](workflows/code-review-demo.md) - AI-enhanced code review
-- [**Performance Optimization**](workflows/performance-demo.md) - Optimizing slow code
-- [**Security Audit**](workflows/security-demo.md) - Security review example
+### 🚀 Performance & Optimization
 
-### 🎨 Creative Solutions
-- [**Algorithm Visualization**](creative/algorithm-viz.md) - Visual algorithm implementation
-- [**Code Generation Scripts**](creative/code-generation.md) - Automated code creation
-- [**Documentation Automation**](creative/docs-automation.md) - Auto-generated documentation
-- [**Custom AI Prompts**](creative/custom-prompts.md) - Domain-specific prompt creation
+### 🔒 Security
+
+### 🔧 DevOps & Deployment
 
 ## Featured Example: Building a REST API with AI
 
