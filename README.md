@@ -7,35 +7,22 @@ A comprehensive toolkit for AI-assisted development that serves as your go-to re
 This toolkit provides everything you need to enhance your AI-assisted development experience:
 
 ### 🤖 Copilot Chatmodes
-- **Custom chatmodes** for different coding scenarios
-- **Specialized instructions** for various programming tasks
-- **Context-aware prompts** for better code generation
+
 
 ### 📝 Instructions & Prompts
-- **Task-specific instructions** for common development patterns
-- **Prompt templates** for code review, debugging, and optimization
-- **Best practices** for AI-assisted coding
+
 
 ### 🛠️ Templates
-- **Project scaffolding** templates
-- **Code structure** templates
-- **Documentation** templates
-- **Testing** templates
+
 
 ### ⚡ Augment Code
-- **Code enhancement** utilities
-- **Refactoring** helpers
-- **Performance optimization** guides
 
-### 🔧 Qoder Tools
-- **Configuration files** for enhanced coding
-- **Workflow automation** scripts
-- **Development environment** setups
+
+### 🔧 Qoder 
+
 
 ### 🔄 Workflows
-- **End-to-end development** workflows
-- **CI/CD** enhancements
-- **Code review** processes
+
 
 ## 🚀 Quick Start
 
@@ -82,17 +69,4 @@ Found a useful prompt, template, or workflow? We'd love to have you contribute! 
 | ⚡ Augment Code | Enhancement utilities | [`/augment-code`](augment-code/) |
 | 🔧 Qoder | Specialized tools | [`/qoder`](qoder/) |
 | 🔄 Workflows | Development processes | [`/workflows`](workflows/) |
-
-## ✨ Features
-
-- 🔍 **Easy discovery** of useful patterns
-- 📋 **Copy-paste ready** templates
-- 🎨 **Customizable** for your workflow
-- 🚀 **Performance-focused** optimizations
-- 🔄 **Continuously updated** with community contributions
-
----
-
-*Happy coding! 🎉*
-=======
 
