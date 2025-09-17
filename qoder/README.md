@@ -8,35 +8,17 @@ Qoder represents next-generation AI-assisted development environments that provi
 
 ## Categories
 
-### ⚙️ Configuration Files
-- [**Editor Settings**](config/editor-settings.md) - Optimized editor configurations
-- [**AI Assistant Settings**](config/ai-settings.md) - AI model preferences and parameters
-- [**Language Servers**](config/language-servers.md) - LSP configurations for better intelligence
-- [**Extensions**](config/extensions.md) - Recommended extensions and plugins
+### 🏗️ Architecture & Design
 
-### 🎯 Coding Modes
-- [**Focus Mode**](modes/focus-mode.md) - Distraction-free coding setup
-- [**Exploration Mode**](modes/exploration-mode.md) - Learning and experimentation
-- [**Production Mode**](modes/production-mode.md) - High-quality, robust code generation
-- [**Rapid Prototyping**](modes/rapid-prototyping.md) - Quick iteration and testing
+### 💻 Development Patterns
 
-### 🤖 AI Prompting Strategies
-- [**Context Building**](prompting/context-building.md) - Providing effective context to AI
-- [**Incremental Development**](prompting/incremental-development.md) - Step-by-step building
-- [**Code Review Prompts**](prompting/code-review.md) - AI-assisted code reviews
-- [**Debugging Strategies**](prompting/debugging.md) - AI-powered debugging
+### 🧪 Testing & Quality
 
-### 🛠️ Workflow Enhancements
-- [**Template Systems**](workflows/templates.md) - Custom code templates
-- [**Snippet Libraries**](workflows/snippets.md) - Reusable code snippets
-- [**Macro Commands**](workflows/macros.md) - Automated development tasks
-- [**Integration Scripts**](workflows/integrations.md) - Tool chain integrations
+### 🚀 Performance & Optimization
 
-### 📊 Analytics & Insights
-- [**Productivity Metrics**](analytics/productivity.md) - Measuring development efficiency
-- [**Code Quality Tracking**](analytics/quality.md) - Monitoring code quality trends
-- [**AI Usage Analytics**](analytics/ai-usage.md) - Understanding AI assistance patterns
-- [**Performance Insights**](analytics/performance.md) - Code performance tracking
+### 🔒 Security
+
+### 🔧 DevOps & Deployment
 
 ## Quick Setup
 
