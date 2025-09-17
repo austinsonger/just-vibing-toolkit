@@ -5,34 +5,22 @@ We welcome contributions from the community! Whether you're adding new prompts, 
 ## Ways to Contribute
 
 ### 🤖 Chatmodes
-- Create specialized chatmodes for specific domains
-- Improve existing chatmode instructions
-- Add new use cases and examples
+
 
 ### 💬 Prompts
-- Submit effective prompt templates
-- Share domain-specific prompting strategies
-- Contribute prompt optimization techniques
+
 
 ### 🛠️ Templates
-- Add project templates for new frameworks
-- Create code templates for common patterns
-- Contribute configuration templates
+
 
 ### 🔄 Workflows
-- Share proven development workflows
-- Document AI integration processes
-- Contribute automation scripts
+
 
 ### 📝 Documentation
-- Improve existing guides
-- Add new tutorials and examples
-- Translate content to other languages
+
 
 ### 🐛 Bug Reports & Feature Requests
-- Report issues with existing content
-- Suggest new features and improvements
-- Help with issue triage and resolution
+
 
 ## Getting Started
 
@@ -43,7 +31,7 @@ Click the "Fork" button on the GitHub repository page to create your own copy.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/just-vibing-toolkit.git
+git clone https://github.com/austinsonger/just-vibing-toolkit.git
 cd just-vibing-toolkit
 ```
 
@@ -54,9 +42,7 @@ git checkout -b feature/your-contribution-name
 ```
 
 ## Contribution Guidelines
-
 ### Content Quality Standards
-
 #### Chatmodes
 - **Clear Instructions**: Provide specific, actionable guidance
 - **Focused Scope**: Target specific use cases or domains
@@ -82,35 +68,12 @@ git checkout -b feature/your-contribution-name
 - **Up-to-Date**: Ensure accuracy and relevance
 
 ### File Organization
-
 ```
-just-vibing-toolkit/
-├── copilot-chatmodes/
-│   ├── [domain-name]-mode.md
-│   └── README.md (update index)
-├── prompts/
-│   ├── [category]/
-│   │   └── [prompt-name].md
-│   └── README.md (update index)
-├── templates/
-│   ├── [category]/
-│   │   └── [template-name]/
-│   └── README.md (update index)
-├── workflows/
-│   ├── [category]/
-│   │   └── [workflow-name].md
-│   └── README.md (update index)
-├── examples/
-│   ├── [category]/
-│   │   └── [example-name].md
-│   └── README.md (update index)
-└── docs/
-    ├── [guide-name].md
-    └── README.md (update index)
+
+
 ```
 
 ### Naming Conventions
-
 - **Files**: Use kebab-case (`my-new-template.md`)
 - **Directories**: Use kebab-case (`code-generation/`)
 - **Placeholders**: Use UPPER_CASE (`{{PROJECT_NAME}}`)
@@ -119,7 +82,6 @@ just-vibing-toolkit/
 ## Submission Process
 
 ### 1. Create Your Content
-
 Follow the appropriate template for your contribution type:
 
 #### For Chatmodes
@@ -171,7 +133,6 @@ template-name/
 ```
 
 ### 2. Test Your Content
-
 Before submitting:
 - ✅ Test chatmodes with real AI assistants
 - ✅ Verify prompt templates produce good results
@@ -180,14 +141,12 @@ Before submitting:
 - ✅ Validate code examples
 
 ### 3. Update Documentation
-
 - Add your contribution to relevant README.md files
 - Update the main README.md if adding a new category
 - Include appropriate cross-references
 - Add examples to the examples section if applicable
 
 ### 4. Submit a Pull Request
-
 1. **Commit your changes**:
 ```bash
 git add .
@@ -202,7 +161,6 @@ git push origin feature/your-contribution-name
 - Fill out the PR template
 
 ### 5. Pull Request Template
-
 ```markdown
 ## Description
 Brief description of your contribution.
@@ -231,7 +189,6 @@ Brief description of your contribution.
 ```
 
 ## Quality Standards
-
 ### Content Review Criteria
 
 **Accuracy**: Information is correct and up-to-date
@@ -242,7 +199,6 @@ Brief description of your contribution.
 **Originality**: Not duplicating existing content
 
 ### Code Quality
-
 - **Follows best practices** for the relevant language/framework
 - **Includes error handling** and validation
 - **Has appropriate comments** and documentation
@@ -250,7 +206,6 @@ Brief description of your contribution.
 - **Includes security considerations**
 
 ## Community Guidelines
-
 ### Be Respectful
 - Use inclusive language
 - Respect different perspectives and experience levels
@@ -270,7 +225,6 @@ Brief description of your contribution.
 - Follow the code of conduct
 
 ## Recognition
-
 Contributors are recognized in several ways:
 
 - **Contributors List**: Added to the main README.md
@@ -279,7 +233,6 @@ Contributors are recognized in several ways:
 - **Badges**: Special recognition for significant contributions
 
 ## Getting Help
-
 Need help with your contribution?
 
 - **Discussions**: Join community discussions for questions
@@ -288,7 +241,6 @@ Need help with your contribution?
 - **Mentorship**: Ask for help from experienced contributors
 
 ## Development Setup
-
 For local development and testing:
 
 ```bash
@@ -302,11 +254,3 @@ npm install  # or pip install -r requirements.txt
 # Run local documentation server (if available)
 npm run docs:dev
 ```
-
-## License
-
-By contributing to Just Vibing Toolkit, you agree that your contributions will be licensed under the same license as the project.
-
----
-
-Thank you for contributing to Just Vibing Toolkit! Your contributions help make AI-assisted development more accessible and effective for developers worldwide. 🚀
