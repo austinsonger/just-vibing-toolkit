@@ -4,43 +4,17 @@ Ready-to-use templates for common development scenarios. These templates provide
 
 ## Categories
 
-### 🏗️ Project Templates
-- [**REST API**](projects/rest-api/) - Complete REST API project structure
-- [**Web Application**](projects/web-app/) - Full-stack web application
-- [**CLI Tool**](projects/cli-tool/) - Command-line application
-- [**Library/Package**](projects/library/) - Reusable library or package
-- [**Microservice**](projects/microservice/) - Microservice architecture template
+### 🏗️ Architecture & Design
 
-### 📁 Code Templates
-- [**Classes**](code/classes/) - Common class patterns and structures
-- [**Functions**](code/functions/) - Function templates and patterns
-- [**Interfaces**](code/interfaces/) - Interface and contract definitions
-- [**Modules**](code/modules/) - Module organization patterns
-- [**Components**](code/components/) - UI and business components
+### 💻 Development Patterns
 
-### 🧪 Testing Templates
-- [**Unit Tests**](testing/unit-tests/) - Unit test structures and patterns
-- [**Integration Tests**](testing/integration-tests/) - Integration test setups
-- [**E2E Tests**](testing/e2e-tests/) - End-to-end test frameworks
-- [**Test Utilities**](testing/test-utilities/) - Common testing utilities
+### 🧪 Testing & Quality
 
-### 📝 Documentation Templates
-- [**README**](documentation/readme/) - Project README templates
-- [**API Documentation**](documentation/api-docs/) - API documentation formats
-- [**Code Comments**](documentation/code-comments/) - Comment and docstring templates
-- [**Architecture Docs**](documentation/architecture/) - Architecture documentation
+### 🚀 Performance & Optimization
 
-### 🔧 Configuration Templates
-- [**CI/CD Pipelines**](config/cicd/) - Continuous integration setups
-- [**Docker**](config/docker/) - Containerization templates
-- [**Environment Config**](config/environment/) - Environment management
-- [**Build Scripts**](config/build/) - Build automation templates
+### 🔒 Security
 
-### 🔒 Security Templates
-- [**Authentication**](security/authentication/) - Auth implementation patterns
-- [**Authorization**](security/authorization/) - Permission and access control
-- [**Data Protection**](security/data-protection/) - Encryption and privacy
-- [**Security Headers**](security/security-headers/) - Web security configurations
+### 🔧 DevOps & Deployment
 
 ## Quick Start
 
