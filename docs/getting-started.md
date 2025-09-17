@@ -3,15 +3,12 @@
 Welcome to the Just Vibing Toolkit! This guide will get you up and running with AI-assisted development in just a few minutes.
 
 ## What You'll Learn
-
 By the end of this guide, you'll know how to:
-- Use Copilot chatmodes for specialized assistance
 - Apply prompt templates for common tasks
 - Leverage code templates for rapid development
 - Integrate AI into your development workflow
 
 ## Prerequisites
-
 - Basic programming knowledge in any language
 - Access to an AI coding assistant (GitHub Copilot, Claude, GPT-4, etc.)
 - A code editor or IDE
@@ -20,7 +17,6 @@ By the end of this guide, you'll know how to:
 ## 5-Minute Quick Start
 
 ### Step 1: Choose Your First Chatmode (2 minutes)
-
 Pick a chatmode that matches your current task:
 
 **For New Features:** Use [Architecture Mode](../copilot-chatmodes/architecture-mode.md)
@@ -39,7 +35,6 @@ Pick a chatmode that matches your current task:
 ```
 
 ### Step 2: Apply a Prompt Template (2 minutes)
-
 Use a prompt template for structured AI assistance:
 
 **Code Review Template:**
@@ -69,7 +64,6 @@ Please help identify the root cause and suggest a fix.
 ```
 
 ### Step 3: Try a Workflow (1 minute)
-
 Follow a simple workflow for your next task:
 
 **Feature Development Workflow:**
@@ -103,7 +97,6 @@ Please suggest the architecture, database schema, and API design.
 - Security considerations
 
 ### 2. Implementation with Code Templates
-
 Use the [REST API template](../templates/projects/rest-api/README.md) as a starting point:
 
 ```javascript
@@ -175,19 +168,16 @@ Include:
 Now that you've completed your first AI-assisted feature, here's what to do next:
 
 ### Explore More Tools
-
 1. **Try Different Chatmodes**: Experiment with [Security Mode](../copilot-chatmodes/security-mode.md) or [Performance Mode](../copilot-chatmodes/performance-mode.md)
 2. **Use More Templates**: Check out the [Templates section](../templates/README.md)
 3. **Learn Advanced Prompts**: Explore the [Prompts library](../prompts/README.md)
 
 ### Integrate into Your Workflow
-
 1. **Set Up Team Standards**: Establish AI usage guidelines for your team
 2. **Create Custom Templates**: Build templates specific to your project needs
 3. **Automate Repetitive Tasks**: Use AI for boilerplate generation and routine tasks
 
 ### Measure Your Progress
-
 Track these metrics to see your improvement:
 - **Development Speed**: Time to implement features
 - **Code Quality**: Fewer bugs and better structure
@@ -195,7 +185,6 @@ Track these metrics to see your improvement:
 - **Documentation**: Better and more complete docs
 
 ## Common Patterns
-
 ### The AI Development Loop
 
 ```
@@ -270,17 +259,3 @@ Please provide the controller code with error handling and validation.
 - **Templates**: [Template collection](../templates/README.md)
 - **Workflows**: [Development workflows](../workflows/README.md)
 - **Examples**: [Real-world examples](../examples/README.md)
-
-## Support
-
-Need help getting started?
-- Check the [FAQ](troubleshooting/faq.md)
-- Browse [Common Issues](troubleshooting/common-issues.md)
-- Join the community discussions
-- Review the [Examples](../examples/README.md) for inspiration
-
----
-
-**Congratulations!** 🎉 You're now ready to supercharge your development workflow with AI assistance. Start with simple tasks and gradually incorporate more advanced techniques as you become comfortable with the tools.
-
-*Happy coding!* 🚀
