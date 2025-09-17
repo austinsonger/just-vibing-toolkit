@@ -1,1 +1,1 @@
-# just-vibing-toolkit
+# Just Vibing Toolkit
