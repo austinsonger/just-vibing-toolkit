@@ -55,7 +55,7 @@ You are helping create a new feature specification through the complete workflow
 
 ## PHASE 1: Requirements Creation
 
-**Template to Follow**: Load and use the exact structure from the requirements template: `.github/templates/requirements-template.md`
+**Template to Follow**: Load and use the exact structure from the requirements template: `/templates/requirements-template.md`
 
 ### Requirements Process
 
@@ -70,7 +70,7 @@ You are helping create a new feature specification through the complete workflow
 
 1. Review and validate the requirements document you just created:
    1. **Template Structure Compliance**
-      - **Load and compare against template**: `.github/templates/requirements-template.md`
+      - **Load and compare against template**: `/templates/requirements-template.md`
       - Ensure all required template sections are present and non-empty
       - Verify document follows exact template structure and formatting
       - Check that sections appear in the correct template order
@@ -194,7 +194,7 @@ You are helping create a new feature specification through the complete workflow
 
 ## PHASE 3: Tasks Creation
 
-**Template to Follow**: Load and use the exact structure from the tasks template: `.github/templates/tasks-template.md`
+**Template to Follow**: Load and use the exact structure from the tasks template: `/templates/tasks-template.md`
 
 ### Task Planning Process
 
