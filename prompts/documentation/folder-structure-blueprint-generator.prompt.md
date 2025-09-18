@@ -287,23 +287,19 @@ Document the build process and output organization:
 ${(PROJECT_TYPE == ".NET" || PROJECT_TYPE == "Auto-detect") ? 
 "#### .NET-Specific Structure Patterns (if detected)
 
-- **Project File Organization**:
   - Project file structure and patterns
   - Target framework configuration
   - Property group organization
   - Item group patterns
   
-- **Assembly Organization**:
   - Assembly naming patterns
   - Multi-assembly architecture
   - Assembly reference patterns
   
-- **Resource Organization**:
   - Embedded resource patterns
   - Localization file structure
   - Static web asset organization
   
-- **Package Management**:
   - NuGet configuration locations
   - Package reference organization
   - Package version management" : ""}
@@ -311,17 +307,14 @@ ${(PROJECT_TYPE == ".NET" || PROJECT_TYPE == "Auto-detect") ?
 ${(PROJECT_TYPE == "Java" || PROJECT_TYPE == "Auto-detect") ? 
 "#### Java-Specific Structure Patterns (if detected)
 
-- **Package Hierarchy**:
   - Package naming and nesting conventions
   - Domain vs. technical packages
   - Visibility and access patterns
   
-- **Build Tool Organization**:
   - Maven/Gradle structure patterns
   - Module organization
   - Plugin configuration patterns
   
-- **Resource Organization**:
   - Resource folder structures
   - Environment-specific resources
   - Properties file organization" : ""}
@@ -329,20 +322,64 @@ ${(PROJECT_TYPE == "Java" || PROJECT_TYPE == "Auto-detect") ?
 ${(PROJECT_TYPE == "Node.js" || PROJECT_TYPE == "Auto-detect") ? 
 "#### Node.js-Specific Structure Patterns (if detected)
 
-- **Module Organization**:
   - CommonJS vs. ESM organization
   - Internal module patterns
   - Third-party dependency management
   
-- **Script Organization**:
   - npm/yarn script definition patterns
   - Utility script locations
   - Development tool scripts
   
-- **Configuration Management**:
   - Configuration file locations
   - Environment variable management
   - Secret management approaches" : ""}
+
+${(PROJECT_TYPE == "PHP" || PROJECT_TYPE == "Auto-detect") ? 
+"#### PHP-Specific Structure Patterns (if detected)
+
+- **Directory Organization**:
+  - Public vs. private directory separation (public/, src/, vendor/)
+  - Autoloading structure (PSR-4, PSR-0)
+  - Framework-specific folders (app/, config/, storage/, resources/ for Laravel)
+  - Entry point files (index.php, artisan)
+
+- **Configuration Management**:
+  - config/ folder structure
+  - Environment file placement (.env)
+  - Secret/config separation
+
+- **Resource Organization**:
+  - Views/templates folder patterns
+  - Asset management (public/, resources/)
+  - Localization file structure
+
+- **Test Organization**:
+  - tests/ folder structure
+  - Test type separation (Unit, Feature, etc.)
+  - Test data and mock locations
+" : ""}
+
+${(PROJECT_TYPE == "RUST" || PROJECT_TYPE == "Auto-detect") ? 
+"#### Rust-Specific Structure Patterns (if detected)
+
+- **Project Organization**:
+  - src/ folder structure and module organization
+  - Cargo.toml and configuration file placement
+  - Workspace and multi-crate organization
+
+- **Module Patterns**:
+  - Internal vs. public module separation
+  - Feature flag folder patterns
+  - Integration vs. unit test placement (tests/, benches/)
+
+- **Resource Organization**:
+  - Static asset folder structure
+  - Build script placement (build.rs)
+
+- **Configuration Management**:
+  - Environment variable and config file handling
+  - Secret management approaches
+" : ""}
 
 ### 9. Extension and Evolution
 Document how the project structure is designed to be extended:
